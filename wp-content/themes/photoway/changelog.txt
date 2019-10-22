@@ -1,0 +1,29 @@
+== Changelog ==
+
+= 1.0.7 =
+* Updated highlighted theme description in readme.
+
+= 1.0.6 =
+* Removed recommended plugins.
+
+= 1.0.6 =
+* Added license and copyright information in readme.
+
+= 1.0.5 =
+* Codes Optimized.
+
+= 1.0.4 =
+* Skip links issue fixed.
+* Index page default welcome text updated.
+
+= 1.0.3 =
+* Skip to content link while enable slider issue fixed.
+
+= 1.0.2 =
+* Skip to content link issue fixed.
+
+= 1.0.1 =
+* Added theme info files.
+
+= 1.0.0 =
+* Initial release.

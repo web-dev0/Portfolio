@@ -1,0 +1,1678 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Photoway\n"
+"POT-Creation-Date: 2019-08-09 18:28+0545\n"
+"PO-Revision-Date: 2019-08-09 18:28+0545\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#. translators: %s: post title
+#: comments.php:31
+#, php-format
+msgctxt "comments title"
+msgid "One Reply to &ldquo;%s&rdquo;"
+msgstr ""
+
+#: comments.php:36
+#, php-format
+msgctxt "comments title"
+msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Replies to &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:55
+msgid "Reply"
+msgstr ""
+
+#: comments.php:61
+msgid "Previous"
+msgstr ""
+
+#: comments.php:62 index.php:66 search.php:32
+msgid "Next"
+msgstr ""
+
+#: comments.php:70
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:97
+msgid "hit enter for search."
+msgstr ""
+
+#: functions.php:98
+msgid "search..."
+msgstr ""
+
+#. translators: 1: edit user link, 2: accessibility text, 3: user name, 4: logout URL
+#: functions.php:153
+#, php-format
+msgid ""
+"<a href=\"%1$s\" aria-label=\"%2$s\">Logged in as %3$s</a> <a href=\"%4$s"
+"\">Log out?</a>"
+msgstr ""
+
+#. translators: %s: user name
+#: functions.php:156
+#, php-format
+msgid "Logged in as %s. Edit your profile."
+msgstr ""
+
+#: functions.php:253
+msgid "Search Results for: "
+msgstr ""
+
+#: functions.php:481 modules/breadcrumbs/breadcrumbs.php:758
+#: modules/breadcrumbs/breadcrumbs.php:787
+#: modules/breadcrumbs/breadcrumbs.php:814
+#: modules/breadcrumbs/breadcrumbs.php:841
+#: modules/breadcrumbs/breadcrumbs.php:1176
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: functions.php:483
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: functions.php:485
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr ""
+
+#: header.php:32
+msgid "Site Loader"
+msgstr ""
+
+#: header.php:40
+msgid "Skip to content"
+msgstr ""
+
+#: inc/back-compat.php:36 inc/back-compat.php:48 inc/back-compat.php:62
+#, php-format
+msgid ""
+"Photoway requires at least WordPress version 4.7. You are running version "
+"%s. Please upgrade and try again."
+msgstr ""
+
+#: inc/setup.php:41 template-parts/header/header-layout.php:25
+msgid "Primary Menu"
+msgstr ""
+
+#: inc/setup.php:42
+msgid "Secondary Menu"
+msgstr ""
+
+#: inc/setup.php:43
+msgid "Social Menu"
+msgstr ""
+
+#: inc/setup.php:44
+msgid "Footer Menu"
+msgstr ""
+
+#: inc/setup.php:69
+msgid "Default Header Image"
+msgstr ""
+
+#: inc/setup.php:124
+msgid "Tan"
+msgstr ""
+
+#: inc/setup.php:129
+msgid "Yellow"
+msgstr ""
+
+#: inc/setup.php:134
+msgid "Orange"
+msgstr ""
+
+#: inc/setup.php:139
+msgid "Red"
+msgstr ""
+
+#: inc/setup.php:144
+msgid "Pink"
+msgstr ""
+
+#: inc/setup.php:149
+msgid "Purple"
+msgstr ""
+
+#: inc/setup.php:154
+msgid "Blue"
+msgstr ""
+
+#: inc/setup.php:159
+msgid "Green"
+msgstr ""
+
+#: inc/setup.php:164
+msgid "Brown"
+msgstr ""
+
+#: inc/setup.php:169
+msgid "Grey"
+msgstr ""
+
+#: inc/setup.php:174
+msgid "Black"
+msgstr ""
+
+#: inc/setup.php:183
+msgid "small"
+msgstr ""
+
+#: inc/setup.php:184
+msgid "S"
+msgstr ""
+
+#: inc/setup.php:189
+msgid "regular"
+msgstr ""
+
+#: inc/setup.php:190
+msgid "M"
+msgstr ""
+
+#: inc/setup.php:195
+msgid "larger"
+msgstr ""
+
+#: inc/setup.php:196
+msgid "L"
+msgstr ""
+
+#: inc/setup.php:201
+msgid "huge"
+msgstr ""
+
+#: inc/setup.php:202
+msgid "XL"
+msgstr ""
+
+#: inc/setup.php:240 modules/customizer/settings/general.php:195
+#: modules/customizer/settings/general.php:233
+#: modules/customizer/settings/general.php:260
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/setup.php:242 inc/setup.php:263
+msgid "Add widgets here."
+msgstr ""
+
+#: inc/setup.php:250
+msgid "Header Sidebar"
+msgstr ""
+
+#: inc/setup.php:252
+msgid "Add widgets here. It will show in header alternative shift menu area."
+msgstr ""
+
+#: inc/setup.php:261
+msgid "Footer"
+msgstr ""
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:24
+#, php-format
+msgid "EDIT<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: inc/template-tags.php:68
+msgid "Tags"
+msgstr ""
+
+#: inc/template-tags.php:78
+msgid "Categories"
+msgstr ""
+
+#: inc/template-tags.php:176
+msgid "Posted on"
+msgstr ""
+
+#: index.php:66 search.php:32
+msgid "Next page"
+msgstr ""
+
+#: index.php:67 search.php:33
+msgid "Prev"
+msgstr ""
+
+#: index.php:67 search.php:33
+msgid "Previous page"
+msgstr ""
+
+#: index.php:68 search.php:34
+msgid "Page"
+msgstr ""
+
+#: modules/breadcrumbs/breadcrumbs.php:244
+msgid "Browse:"
+msgstr ""
+
+#: modules/breadcrumbs/breadcrumbs.php:245
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr ""
+
+#: modules/breadcrumbs/breadcrumbs.php:246 modules/helpers/helpers.php:181
+msgid "Home"
+msgstr ""
+
+#: modules/breadcrumbs/breadcrumbs.php:247
+msgid "404 Not Found"
+msgstr ""
+
+#: modules/breadcrumbs/breadcrumbs.php:248
+msgid "Archives"
+msgstr ""
+
+#: modules/breadcrumbs/breadcrumbs.php:250
+#, php-format
+msgid "Search results for &#8220;%s&#8221;"
+msgstr ""
+
+#: modules/breadcrumbs/breadcrumbs.php:252
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: modules/breadcrumbs/breadcrumbs.php:254
+#, php-format
+msgid "Minute %s"
+msgstr ""
+
+#: modules/breadcrumbs/breadcrumbs.php:256
+#, php-format
+msgid "Week %s"
+msgstr ""
+
+#: modules/breadcrumbs/breadcrumbs.php:708
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: modules/breadcrumbs/breadcrumbs.php:725
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: modules/breadcrumbs/breadcrumbs.php:742
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#: modules/breadcrumbs/breadcrumbs.php:759
+#: modules/breadcrumbs/breadcrumbs.php:815
+#: modules/breadcrumbs/breadcrumbs.php:1180
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: modules/breadcrumbs/breadcrumbs.php:760
+#: modules/breadcrumbs/breadcrumbs.php:1184
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: modules/breadcrumbs/breadcrumbs.php:788
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+#: modules/customizer/defaults/defaults.php:15
+#: trt-customize-pro/doc-link/class-customize.php:76
+msgid "Photoway"
+msgstr ""
+
+#: modules/customizer/defaults/defaults.php:16
+msgid "Capture your sweet memories"
+msgstr ""
+
+#: modules/customizer/defaults/defaults.php:45
+msgid "Continue Reading"
+msgstr ""
+
+#: modules/customizer/defaults/defaults.php:58
+#: modules/customizer/defaults/defaults.php:78
+msgid "Learn more"
+msgstr ""
+
+#: modules/customizer/defaults/defaults.php:63
+msgid "Creative Gallery"
+msgstr ""
+
+#: modules/customizer/defaults/defaults.php:84
+msgid "Client Testimonials"
+msgstr ""
+
+#: modules/customizer/defaults/defaults.php:98
+msgid "Contact Us"
+msgstr ""
+
+#: modules/customizer/defaults/defaults.php:123
+msgid "Welcome to Photoway"
+msgstr ""
+
+#: modules/customizer/defaults/defaults.php:139
+msgid "Previous Reading"
+msgstr ""
+
+#: modules/customizer/defaults/defaults.php:140
+msgid "Next Reading"
+msgstr ""
+
+#: modules/customizer/defaults/defaults.php:173
+msgid "Copyright &copy; 2019."
+msgstr ""
+
+#: modules/customizer/framework/category-control.php:23
+#: modules/widgets/class-base-widget.php:95
+#: modules/widgets/class-base-widget.php:224
+msgid "&mdash; Select &mdash;"
+msgstr ""
+
+#: modules/customizer/framework/customizer.php:278
+#: modules/customizer/framework/customizer.php:318
+msgid "No Title Specified."
+msgstr ""
+
+#: modules/customizer/framework/post-control.php:39
+msgid "Select"
+msgstr ""
+
+#: modules/customizer/loader.php:20
+msgid "Background"
+msgstr ""
+
+#: modules/customizer/panels/panels.php:13
+msgid "Fonts"
+msgstr ""
+
+#: modules/customizer/panels/panels.php:17
+msgid "Frontpage Options"
+msgstr ""
+
+#: modules/customizer/panels/panels.php:21
+msgid "Theme Options"
+msgstr ""
+
+#: modules/customizer/sections/sections.php:14
+msgid "Font Family"
+msgstr ""
+
+#: modules/customizer/sections/sections.php:18
+msgid "Font Size"
+msgstr ""
+
+#: modules/customizer/sections/sections.php:24
+#: modules/customizer/sections/sections.php:82
+msgid "General Options"
+msgstr ""
+
+#: modules/customizer/sections/sections.php:28
+msgid "Slider Options"
+msgstr ""
+
+#: modules/customizer/sections/sections.php:32
+msgid "About Options"
+msgstr ""
+
+#: modules/customizer/sections/sections.php:36
+msgid "Blog Options"
+msgstr ""
+
+#: modules/customizer/sections/sections.php:40
+msgid "Callback Options"
+msgstr ""
+
+#: modules/customizer/sections/sections.php:44
+msgid "Testimonial Options"
+msgstr ""
+
+#: modules/customizer/sections/sections.php:48
+msgid "Contact Options"
+msgstr ""
+
+#: modules/customizer/sections/sections.php:52
+msgid "Instagram Options"
+msgstr ""
+
+#: modules/customizer/sections/sections.php:58
+msgid "Header Options"
+msgstr ""
+
+#: modules/customizer/sections/sections.php:62
+msgid "Footer Options"
+msgstr ""
+
+#: modules/customizer/sections/sections.php:66
+msgid "Layout Options"
+msgstr ""
+
+#: modules/customizer/sections/sections.php:70
+msgid "Archive Page Options"
+msgstr ""
+
+#: modules/customizer/sections/sections.php:74
+msgid "Single Post Page Options"
+msgstr ""
+
+#: modules/customizer/sections/sections.php:78
+msgid "Page Options"
+msgstr ""
+
+#: modules/customizer/settings/frontpage.php:14
+msgid "Section Title Layout"
+msgstr ""
+
+#: modules/customizer/settings/frontpage.php:18
+#: modules/customizer/settings/general.php:402
+msgid "Layout One"
+msgstr ""
+
+#: modules/customizer/settings/frontpage.php:24
+msgid "Slider Pages"
+msgstr ""
+
+#: modules/customizer/settings/frontpage.php:27
+msgid ""
+"Input page id. Separate with comma. for eg. 2, 9, 23...  Recommended size "
+"1920x650 pixels."
+msgstr ""
+
+#: modules/customizer/settings/frontpage.php:30
+msgid "Slider Page View Number"
+msgstr ""
+
+#: modules/customizer/settings/frontpage.php:31
+msgid "Total number of slider to show."
+msgstr ""
+
+#: modules/customizer/settings/frontpage.php:41
+msgid "Slider Section Layout"
+msgstr ""
+
+#: modules/customizer/settings/frontpage.php:42
+#: modules/customizer/settings/frontpage.php:139
+#: modules/customizer/settings/frontpage.php:197
+#: modules/customizer/settings/frontpage.php:261
+#: modules/customizer/settings/frontpage.php:319
+#: modules/customizer/settings/frontpage.php:357
+#: modules/customizer/settings/frontpage.php:378
+msgid "Select a layout. More layouts are coming soon."
+msgstr ""
+
+#: modules/customizer/settings/frontpage.php:46
+#: modules/customizer/settings/frontpage.php:143
+#: modules/customizer/settings/frontpage.php:201
+#: modules/customizer/settings/frontpage.php:265
+#: modules/customizer/settings/frontpage.php:323
+#: modules/customizer/settings/frontpage.php:361
+#: modules/customizer/settings/frontpage.php:382
+msgid "Layout Style One"
+msgstr ""
+
+#: modules/customizer/settings/frontpage.php:50
+msgid "Slider Overlay Opacity"
+msgstr ""
+
+#: modules/customizer/settings/frontpage.php:51
+#: modules/customizer/settings/general.php:86
+#: modules/customizer/settings/general.php:105
+msgid "1 equals to 10%"
+msgstr ""
+
+#: modules/customizer/settings/frontpage.php:61
+msgid "Slider Content Alignment"
+msgstr ""
+
+#: modules/customizer/settings/frontpage.php:65
+msgid "Center"
+msgstr ""
+
+#: modules/customizer/settings/frontpage.php:69
+msgid "Disable Slider Title"
+msgstr ""
+
+#: modules/customizer/settings/frontpage.php:74
+msgid "Slider Excerpt Lenth"
+msgstr ""
+
+#: modules/customizer/settings/frontpage.php:75
+msgid "Default 30 words"
+msgstr ""
+
+#: modules/customizer/settings/frontpage.php:85
+msgid "Disable Slider Content"
+msgstr ""
+
+#: modules/customizer/settings/frontpage.php:90
+msgid "Slider Button Text"
+msgstr ""
+
+#: modules/customizer/settings/frontpage.php:95
+msgid "Disable Slider Button"
+msgstr ""
+
+#: modules/customizer/settings/frontpage.php:100
+msgid "Disable Slider Control"
+msgstr ""
+
+#: modules/customizer/settings/frontpage.php:105
+msgid "Disable Slider Auto Play"
+msgstr ""
+
+#: modules/customizer/settings/frontpage.php:110
+msgid "Slider Auto Play Timeout ( in sec )"
+msgstr ""
+
+#: modules/customizer/settings/frontpage.php:120
+msgid "Disable Slider Go Down Arrow"
+msgstr ""
+
+#: modules/customizer/settings/frontpage.php:125
+msgid "Disable Slider Section"
+msgstr ""
+
+#: modules/customizer/settings/frontpage.php:132
+msgid "Select About Page"
+msgstr ""
+
+#: modules/customizer/settings/frontpage.php:133
+#: modules/customizer/settings/frontpage.php:191
+msgid "Feature image recommended size 1200x1600 pixels."
+msgstr ""
+
+#: modules/customizer/settings/frontpage.php:138
+msgid "About Section Layout"
+msgstr ""
+
+#: modules/customizer/settings/frontpage.php:147
+msgid "Disable About Feature Image"
+msgstr ""
+
+#: modules/customizer/settings/frontpage.php:152
+msgid "Disable About Title"
+msgstr ""
+
+#: modules/customizer/settings/frontpage.php:157
+msgid "About Excerpt Lenth"
+msgstr ""
+
+#: modules/customizer/settings/frontpage.php:158
+msgid "Default 50 words"
+msgstr ""
+
+#: modules/customizer/settings/frontpage.php:168
+msgid "Disable About Content"
+msgstr ""
+
+#: modules/customizer/settings/frontpage.php:173
+msgid "About Button Text"
+msgstr ""
+
+#: modules/customizer/settings/frontpage.php:178
+msgid "Disable About Button"
+msgstr ""
+
+#: modules/customizer/settings/frontpage.php:183
+msgid "Disable About Section"
+msgstr ""
+
+#: modules/customizer/settings/frontpage.php:190
+msgid "Blog Section Title"
+msgstr ""
+
+#: modules/customizer/settings/frontpage.php:196
+msgid "Blog Section Layout"
+msgstr ""
+
+#: modules/customizer/settings/frontpage.php:205
+msgid "Choose Blog Category"
+msgstr ""
+
+#: modules/customizer/settings/frontpage.php:210
+msgid "Blog Post View Number"
+msgstr ""
+
+#: modules/customizer/settings/frontpage.php:211
+msgid "Total number of blog post to show."
+msgstr ""
+
+#: modules/customizer/settings/frontpage.php:221
+msgid "Blog Post Overlay Opacity"
+msgstr ""
+
+#: modules/customizer/settings/frontpage.php:222
+msgid "1 equals to 10%."
+msgstr ""
+
+#: modules/customizer/settings/frontpage.php:232
+msgid "Disable Blog Overlay"
+msgstr ""
+
+#: modules/customizer/settings/frontpage.php:237
+msgid "Disable Blog Category Title"
+msgstr ""
+
+#: modules/customizer/settings/frontpage.php:242
+msgid "Disable Blog Post Title"
+msgstr ""
+
+#: modules/customizer/settings/frontpage.php:247
+msgid "Disable Blog Section"
+msgstr ""
+
+#: modules/customizer/settings/frontpage.php:254
+msgid "Select Callback Page"
+msgstr ""
+
+#: modules/customizer/settings/frontpage.php:255
+msgid "Feature image recommended size 1920x850 pixels."
+msgstr ""
+
+#: modules/customizer/settings/frontpage.php:260
+msgid "Callback Section Layout"
+msgstr ""
+
+#: modules/customizer/settings/frontpage.php:269
+msgid "Disable Callback Title"
+msgstr ""
+
+#: modules/customizer/settings/frontpage.php:274
+msgid "Callback Image Overlay Opacity"
+msgstr ""
+
+#: modules/customizer/settings/frontpage.php:275
+#: modules/customizer/settings/frontpage.php:403
+msgid "1 equals to 10% "
+msgstr ""
+
+#: modules/customizer/settings/frontpage.php:285
+msgid "Callback Excerpt Lenth"
+msgstr ""
+
+#: modules/customizer/settings/frontpage.php:286
+msgid "Default 25 words"
+msgstr ""
+
+#: modules/customizer/settings/frontpage.php:296
+msgid "Disable Callback Content"
+msgstr ""
+
+#: modules/customizer/settings/frontpage.php:301
+msgid "Callback Button Text"
+msgstr ""
+
+#: modules/customizer/settings/frontpage.php:306
+msgid "Disable Callback Button"
+msgstr ""
+
+#: modules/customizer/settings/frontpage.php:311
+msgid "Disable Callback Section"
+msgstr ""
+
+#: modules/customizer/settings/frontpage.php:318
+msgid "Testimonial Section Layout"
+msgstr ""
+
+#: modules/customizer/settings/frontpage.php:327
+msgid "Testimonial Section Title"
+msgstr ""
+
+#: modules/customizer/settings/frontpage.php:332
+msgid "Testimonial Pages"
+msgstr ""
+
+#: modules/customizer/settings/frontpage.php:335
+msgid ""
+"Input page id. Separate with comma. for eg. 2,9,23... Recommended size "
+"150x150 pixels."
+msgstr ""
+
+#: modules/customizer/settings/frontpage.php:338
+msgid "Testimonial Page View Number"
+msgstr ""
+
+#: modules/customizer/settings/frontpage.php:339
+msgid "Total number of testimonial to show."
+msgstr ""
+
+#: modules/customizer/settings/frontpage.php:349
+msgid "Disable Testimonial Section"
+msgstr ""
+
+#: modules/customizer/settings/frontpage.php:356
+msgid "Instagram Section Layout"
+msgstr ""
+
+#: modules/customizer/settings/frontpage.php:365
+msgid "Enter Instagram Shortcode"
+msgstr ""
+
+#: modules/customizer/settings/frontpage.php:370
+#: modules/customizer/settings/general.php:152
+msgid "Enable Instagram"
+msgstr ""
+
+#: modules/customizer/settings/frontpage.php:377
+msgid "Contact Section Layout"
+msgstr ""
+
+#: modules/customizer/settings/frontpage.php:388
+msgid "Contact Section Background Image"
+msgstr ""
+
+#: modules/customizer/settings/frontpage.php:389
+msgid "Recommended Size 1920x850 pixels"
+msgstr ""
+
+#: modules/customizer/settings/frontpage.php:396
+msgid "Disable Contact Background Image"
+msgstr ""
+
+#: modules/customizer/settings/frontpage.php:397
+msgid "It will remove default image also."
+msgstr ""
+
+#: modules/customizer/settings/frontpage.php:402
+msgid "Image Overlay Opacity"
+msgstr ""
+
+#: modules/customizer/settings/frontpage.php:414
+msgid "Contact Section Title"
+msgstr ""
+
+#: modules/customizer/settings/frontpage.php:421
+msgid "Contact Form Shortcode"
+msgstr ""
+
+#: modules/customizer/settings/frontpage.php:423
+msgid "Add a Contact Form Shortcode."
+msgstr ""
+
+#: modules/customizer/settings/frontpage.php:427
+msgid "Disable Contact Section"
+msgstr ""
+
+#: modules/customizer/settings/general.php:15
+msgid "Site Identity Extra Options"
+msgstr ""
+
+#: modules/customizer/settings/general.php:20
+msgid "Hide All"
+msgstr ""
+
+#: modules/customizer/settings/general.php:21
+msgid "Show All"
+msgstr ""
+
+#: modules/customizer/settings/general.php:22
+msgid "Title Only"
+msgstr ""
+
+#: modules/customizer/settings/general.php:23
+msgid "Tagline Only"
+msgstr ""
+
+#: modules/customizer/settings/general.php:24
+msgid "Logo + Title"
+msgstr ""
+
+#: modules/customizer/settings/general.php:25
+msgid "Logo + Tagline"
+msgstr ""
+
+#: modules/customizer/settings/general.php:29
+msgid "Alternate Logo for Fixed Header"
+msgstr ""
+
+#: modules/customizer/settings/general.php:38
+msgid "Site Title"
+msgstr ""
+
+#: modules/customizer/settings/general.php:43
+msgid "Site Tagline"
+msgstr ""
+
+#: modules/customizer/settings/general.php:48
+msgid "Body Text"
+msgstr ""
+
+#: modules/customizer/settings/general.php:53
+msgid "Primary"
+msgstr ""
+
+#: modules/customizer/settings/general.php:58
+msgid "Hover"
+msgstr ""
+
+#: modules/customizer/settings/general.php:66
+msgid "Header Image Overlay Opacity"
+msgstr ""
+
+#: modules/customizer/settings/general.php:67
+msgid "1 equals to 10% & it will effect on Banner Image Layouts"
+msgstr ""
+
+#: modules/customizer/settings/general.php:77
+msgid "Home Page Image"
+msgstr ""
+
+#: modules/customizer/settings/general.php:78
+msgid "Recommended Size 1920x650 pixels"
+msgstr ""
+
+#: modules/customizer/settings/general.php:85
+msgid "Home Page Image Overlay Opacity"
+msgstr ""
+
+#: modules/customizer/settings/general.php:96
+msgid "404 Error Page Image"
+msgstr ""
+
+#: modules/customizer/settings/general.php:97
+msgid "Recommended Size 1920x380 pixels"
+msgstr ""
+
+#: modules/customizer/settings/general.php:104
+msgid "404 Page Image Overlay Opacity"
+msgstr ""
+
+#: modules/customizer/settings/general.php:120
+msgid "Select Header Layout"
+msgstr ""
+
+#: modules/customizer/settings/general.php:124
+msgid "Header Layout One"
+msgstr ""
+
+#: modules/customizer/settings/general.php:128
+msgid "Disable Header Search Icon"
+msgstr ""
+
+#: modules/customizer/settings/general.php:133
+msgid "Disable Hamburger Menu Icon"
+msgstr ""
+
+#: modules/customizer/settings/general.php:134
+msgid "It will disable the icon from desktop view"
+msgstr ""
+
+#: modules/customizer/settings/general.php:139
+msgid "Disable Fixed Header"
+msgstr ""
+
+#: modules/customizer/settings/general.php:147
+msgid "Instagram Shortcode"
+msgstr ""
+
+#: modules/customizer/settings/general.php:157
+msgid "Select Footer Layout"
+msgstr ""
+
+#: modules/customizer/settings/general.php:161
+msgid "Footer Layout One"
+msgstr ""
+
+#: modules/customizer/settings/general.php:166
+msgid "Disable Footer Widget Area"
+msgstr ""
+
+#: modules/customizer/settings/general.php:172
+msgid "Footer Text"
+msgstr ""
+
+#: modules/customizer/settings/general.php:179
+msgid "Site Layout"
+msgstr ""
+
+#: modules/customizer/settings/general.php:184
+msgid "Full Width"
+msgstr ""
+
+#: modules/customizer/settings/general.php:190
+msgid "Archive Page Layout"
+msgstr ""
+
+#: modules/customizer/settings/general.php:199
+#: modules/customizer/settings/general.php:237
+#: modules/customizer/settings/general.php:256
+msgid "Left Sidebar"
+msgstr ""
+
+#: modules/customizer/settings/general.php:203
+#: modules/customizer/settings/general.php:241
+#: modules/customizer/settings/general.php:252
+msgid "No Sidebar"
+msgstr ""
+
+#: modules/customizer/settings/general.php:209
+msgid "Archive Post Layout"
+msgstr ""
+
+#: modules/customizer/settings/general.php:214
+msgid "Grid"
+msgstr ""
+
+#: modules/customizer/settings/general.php:218
+msgid "List"
+msgstr ""
+
+#: modules/customizer/settings/general.php:222
+msgid "Simple"
+msgstr ""
+
+#: modules/customizer/settings/general.php:228
+msgid "Single Post Page Layout"
+msgstr ""
+
+#: modules/customizer/settings/general.php:247
+msgid "Pages Layout"
+msgstr ""
+
+#: modules/customizer/settings/general.php:268
+msgid "Blog Page Title"
+msgstr ""
+
+#: modules/customizer/settings/general.php:269
+msgid "This title will appear when the slider is disabled."
+msgstr ""
+
+#: modules/customizer/settings/general.php:274
+msgid "Disable Category link"
+msgstr ""
+
+#: modules/customizer/settings/general.php:279
+#: modules/customizer/settings/general.php:323
+msgid "Disable Post Date"
+msgstr ""
+
+#: modules/customizer/settings/general.php:284
+msgid "Disable Author"
+msgstr ""
+
+#: modules/customizer/settings/general.php:289
+msgid "Disable Comment link"
+msgstr ""
+
+#: modules/customizer/settings/general.php:294
+msgid "Global Excerpt Length"
+msgstr ""
+
+#: modules/customizer/settings/general.php:295
+#: modules/customizer/settings/general.php:306
+msgid "in words"
+msgstr ""
+
+#: modules/customizer/settings/general.php:305
+msgid "Sticky & Simple Post Excerpt Length"
+msgstr ""
+
+#: modules/customizer/settings/general.php:316
+msgid "Disable Pagination"
+msgstr ""
+
+#: modules/customizer/settings/general.php:328
+msgid "Disable Feauture Image"
+msgstr ""
+
+#: modules/customizer/settings/general.php:333
+msgid "Disable Post Format"
+msgstr ""
+
+#: modules/customizer/settings/general.php:338
+msgid "Disable Tag links"
+msgstr ""
+
+#: modules/customizer/settings/general.php:343
+msgid "Disable Category links"
+msgstr ""
+
+#: modules/customizer/settings/general.php:348
+msgid "Disable Author detail"
+msgstr ""
+
+#: modules/customizer/settings/general.php:353
+msgid "Previous Reading Text"
+msgstr ""
+
+#: modules/customizer/settings/general.php:354
+msgid "Post Navigation Previous Reading Text"
+msgstr ""
+
+#: modules/customizer/settings/general.php:359
+msgid "Next Reading Text"
+msgstr ""
+
+#: modules/customizer/settings/general.php:360
+msgid "Post Navigation Next Reading Text"
+msgstr ""
+
+#: modules/customizer/settings/general.php:375
+msgid "Site Loader Options"
+msgstr ""
+
+#: modules/customizer/settings/general.php:379
+msgid "Site Loader One"
+msgstr ""
+
+#: modules/customizer/settings/general.php:383
+msgid "Disable Site Loader"
+msgstr ""
+
+#: modules/customizer/settings/general.php:390
+msgid "Enable Scroll Top"
+msgstr ""
+
+#: modules/customizer/settings/general.php:397
+msgid "Page Header Title Layouts"
+msgstr ""
+
+#: modules/customizer/settings/general.php:408
+msgid "Disable Header Title"
+msgstr ""
+
+#: modules/customizer/settings/general.php:413
+msgid "Disable Description"
+msgstr ""
+
+#: modules/customizer/settings/general.php:420
+msgid "Breadcrumb Separator Layouts"
+msgstr ""
+
+#: modules/customizer/settings/general.php:424
+msgid "Separator Layout One"
+msgstr ""
+
+#: modules/customizer/settings/general.php:425
+msgid "Separator Layout Two"
+msgstr ""
+
+#: modules/customizer/settings/general.php:426
+msgid "Separator Layout Three"
+msgstr ""
+
+#: modules/customizer/settings/general.php:430
+msgid "Enable Breadcrumb Home Icon"
+msgstr ""
+
+#: modules/customizer/settings/general.php:435
+msgid "Disable Breadcrumb"
+msgstr ""
+
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:330
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:332
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#. translators: 1: plugin name(s).
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:336
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:342
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:348
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:354
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:360
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:366
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:371
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:376
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:381
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:386
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:827
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2533
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:387
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:388
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name.
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:390
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:392
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:394
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:934
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:934
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:937
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:937
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:1121
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:1982
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr ""
+
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2342
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2388
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2392
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2396
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2400
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr ""
+
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2603
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2608
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2614
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr ""
+
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr ""
+
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr ""
+
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:3498
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:3501
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:3503
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:3507
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:3509
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:3509
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr ""
+
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:3509
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr ""
+
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:3512
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:3515
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:3517
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:3520
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: modules/tgm-plugin-activation/loader.php:63
+msgid "Creative Blocks – Ultimate Blocks for Gutenberg"
+msgstr ""
+
+#: modules/tgm-plugin-activation/loader.php:68
+msgid "Contact Form 7"
+msgstr ""
+
+#: modules/tgm-plugin-activation/loader.php:74
+msgid "MailChimp for WordPress"
+msgstr ""
+
+#: modules/tgm-plugin-activation/loader.php:80
+msgid "AddToAny Share Buttons"
+msgstr ""
+
+#: modules/tgm-plugin-activation/loader.php:86
+msgid "Instagram Feed"
+msgstr ""
+
+#: modules/tgm-plugin-activation/loader.php:92
+msgid "WooCommerce"
+msgstr ""
+
+#: modules/widgets/author.php:16
+msgid "Widget for your profile."
+msgstr ""
+
+#: modules/widgets/author.php:22
+msgid "Photoway Author"
+msgstr ""
+
+#: modules/widgets/author.php:28
+msgid "Title"
+msgstr ""
+
+#: modules/widgets/author.php:30
+msgid "About the Author"
+msgstr ""
+
+#: modules/widgets/author.php:33
+msgid "Select Page"
+msgstr ""
+
+#: modules/widgets/author.php:37
+msgid "Sub Title"
+msgstr ""
+
+#: modules/widgets/author.php:39
+msgid "Lifestyle Blogger"
+msgstr ""
+
+#: modules/widgets/author.php:42
+msgid "Select Social Menu"
+msgstr ""
+
+#: modules/widgets/class-base-widget.php:75
+msgid "Type Not Supported."
+msgstr ""
+
+#: template-parts/footer/site-info.php:11
+msgid "Photoway Theme by"
+msgstr ""
+
+#. Author of the plugin/theme
+#: template-parts/footer/site-info.php:11
+msgid "Keon Themes"
+msgstr ""
+
+#: template-parts/page/content-none.php:20
+msgid "Page Not Found"
+msgstr ""
+
+#: template-parts/page/content-none.php:23
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/page/content-none.php:31
+msgid "It looks like nothing was found. Want to try another by search?"
+msgstr ""
+
+#: template-parts/page/content-none.php:34
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps another "
+"searching can help."
+msgstr ""
+
+#: template-parts/page/content-none.php:46
+msgid "Add New Post"
+msgstr ""
+
+#: template-parts/page/content.php:17 template-parts/single/content.php:17
+msgid "Pages:"
+msgstr ""
+
+#: trt-customize-pro/doc-link/class-customize.php:78
+msgid "Upgrade Pro"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://keonthemes.com/downloads/photoway"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://keonthemes.com"
+msgstr ""

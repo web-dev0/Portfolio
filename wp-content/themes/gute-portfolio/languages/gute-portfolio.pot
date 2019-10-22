@@ -1,0 +1,103 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gute Portfolio\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-05-31 09:26+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.0; wp-5.0.4"
+
+#: header.php:84
+msgid "Contact Me"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: template-parts/content.php:32
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: inc/customizer.php:45
+msgid "Grid view"
+msgstr ""
+
+#. Name of the theme
+msgid "Gute Portfolio"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"gute portfolio is a free responsive portfolio theme. This is the child theme "
+"of gute theme. gute portfolio is very good for pesonal portfolio because you "
+"can show your personal portfolio by gute portfolio theme. Personal details "
+"menu is an awesome feature in the gute portfolio theme.  gute portfolio is "
+"editable and super flexible new functionality. The theme has nice, beautiful "
+"and professional layouts. This theme is made for any search engine, SEO "
+"Compatible.  Bootstrap Framework based so it’s totally responsive.  Html5 "
+"and css3 based coded.  It is the multipurpose theme you case to use for the "
+"business, corporate, agency, startup, consulting websites."
+msgstr ""
+
+#: inc/customizer.php:57
+msgid "Header text position"
+msgstr ""
+
+#: header.php:86
+msgid "Hire Me"
+msgstr ""
+
+#: header.php:81
+msgid "I Am John Stevenson"
+msgstr ""
+
+#: inc/customizer.php:46
+msgid "List view"
+msgstr ""
+
+#: template-parts/content.php:43
+msgid "Pages:"
+msgstr ""
+
+#: inc/customizer.php:40
+msgid "Post view style"
+msgstr ""
+
+#: template-parts/content.php:89
+msgid "Read more"
+msgstr ""
+
+#: header.php:26
+msgid "Skip to content"
+msgstr ""
+
+#: inc/customizer.php:63
+msgid "Text Center"
+msgstr ""
+
+#: inc/customizer.php:62
+msgid "Text Left"
+msgstr ""
+
+#: inc/customizer.php:64
+msgid "Text Right"
+msgstr ""
+
+#: header.php:57
+msgid "Toggle Navigation"
+msgstr ""
+
+#: header.php:83
+msgid "WordPress Developer and Web Designer"
+msgstr ""
+
+#. Author of the theme
+msgid "wp theme space"
+msgstr ""
